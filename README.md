@@ -1,4 +1,4 @@
-# Arduino_led_buttons
+# Arduino_LED_Buttons
 ## Project Description
 This is a simple Arduino project that uses three push buttons to control three LEDs. 
 Each button turns on a specific LED when pressed.
